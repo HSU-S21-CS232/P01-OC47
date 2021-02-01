@@ -15,6 +15,7 @@ first_movie.h2.a.text #Name of the movie
 first_movie.find('span', {"class":"subtle start-year"}).text[1:5] #year
 first_movie.find('span', {"class":"tMeterScore"}).text #tmeter
 
+movie_data = []
 filename = 'help.csv' #passing it to a csv
 f = open(filename, 'w') #open filename with rate permission
 headers = 'Rank, Name, Year, tmeta \n'
@@ -24,6 +25,10 @@ for shows in movies:
     Name = shows.h2.a.text
     Year = shows.find('span', {"class":"subtle start-year"}).text[1:5]
     tmeta = shows.find('span', {"class":"tMeterScore"}).text 
-    
-    f.write(Rank + ',' + Name + ',' + Year+ ',' + tmeta)
+    movie_data.append(Rank + ',' + Name + ',' + Year+ ',' + tmeta + "\n")
+
+#reverse list, write to file
+movie_data.reverse()
+for movie in movie_data:
+    f.write(movie)
 f.close()
