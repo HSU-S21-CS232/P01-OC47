@@ -1,101 +1,101 @@
-Rank, Name, Year, tmeta 
-#1,His House,2020,100%
-#2,Crip Camp: A Disability Revolution,2020,100%
-#3,Dick Johnson Is Dead,2020,100%
-#4,The Square (Al Midan),2013,100%
-#5,Shirkers,2018,100%
-#6,Cool Hand Luke,1967,100%
-#7,Strong Island,2017,100%
-#8,Lady Bird,2017,99%
-#9,Knock Down the House,2019,99%
-#10,Under The Shadow,2016,99%
-#11,Moonlight,2016,98%
-#12,The Forty-Year-Old Version,2020,98%
-#13,Whose Streets?,2017,98%
-#14,Circus of Books,2020,98%
-#15,Homecoming: A Film by Beyoncé,2019,98%
-#16,Rocks,2020,98%
-#17,Spotlight,2015,97%
-#18,Dolemite Is My Name,2019,97%
-#19,Hunt for the Wilderpeople,2016,97%
-#20,Mudbound,2017,97%
-#21,Aquarius,2016,97%
-#22,13th,2016,97%
-#23,Monty Python and the Holy Grail,1975,97%
-#24,Pick of the Litter,2018,97%
-#25,The Social Network,2010,96%
-#26,The Florida Project,2017,96%
-#27,Catch Me If You Can,2002,96%
-#28,Atlantics,2019,96%
-#29,Blue Ruin,2014,96%
-#30,Menashe,2017,96%
-#31,Undefeated,2012,96%
-#32,GoodFellas,1990,96%
-#33,Taxi Driver,1976,96%
-#34,American Factory,2019,96%
-#35,I Lost My Body,2019,96%
-#36,To All the Boys I've Loved Before,2018,96%
-#37,I Am Divine,2013,96%
-#38,The Irishman,2019,95%
-#39,Roma,2018,95%
-#40,The Artist,2011,95%
-#41,Nightcrawler,2014,95%
-#42,Casino Royale,2006,95%
-#43,The Death of Stalin,2018,95%
-#44,Pan's Labyrinth,2006,95%
-#45,The Muppets,2011,95%
-#46,Burning (Beoning),2018,95%
-#47,The Breadwinner,2017,95%
-#48,Good Hair,2009,95%
-#49,Monty Python's Life of Brian,1979,95%
-#50,The Evil Dead,1981,95%
-#51,Outside In,2018,95%
-#52,Marriage Story,2019,94%
-#53,Carol,2015,94%
-#54,Snowpiercer,2014,94%
-#55,Fruitvale Station,2013,94%
-#56,Yes, God, Yes,2020,94%
-#57,Private Life,2018,94%
-#58,Shadow,2019,94%
-#59,Klaus,2019,94%
-#60,Howards End,1992,94%
-#61,Enter the Dragon,1973,94%
-#62,Hugo,2011,93%
-#63,Wildlife,2018,93%
-#64,CAM,2018,93%
-#65,The Little Prince,2016,93%
-#66,Sand Storm (Sufat Chol),2016,93%
-#67,Hush,2016,93%
-#68,Uncut Gems,2019,92%
-#69,Da 5 Bloods,2020,92%
-#70,Silver Linings Playbook,2012,92%
-#71,Good Time,2017,92%
-#72,There Will Be Blood,2007,92%
-#73,The Meyerowitz Stories (New and Selected),2017,92%
-#74,The Squid and the Whale,2005,92%
-#75,Beasts of No Nation,2015,92%
-#76,The Endless,2018,92%
-#77,We the Animals,2018,92%
-#78,Fyre,2019,92%
-#79,Rolling Thunder Revue: A Bob Dylan Story By Martin Scorsese,2019,92%
-#80,Set It Up,2018,92%
-#81,Into the Inferno,2016,92%
-#82,Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton,2017,92%
-#83,Icarus,2017,92%
-#84,Mindhorn,2016,92%
-#85,The Disaster Artist,2017,91%
-#86,The Departed,2006,91%
-#87,A Ghost Story,2017,91%
-#88,The Gift,2015,91%
-#89,The White Tiger,2020,91%
-#90,The Sapphires,2013,91%
-#91,High Flying Bird,2019,91%
-#92,El Camino: A Breaking Bad Movie,2019,91%
-#93,Miss Americana,2020,91%
-#94,Happy as Lazzaro (Lazzaro felice),2018,91%
-#95,Gerald's Game,2017,91%
-#96,I Am Mother,2019,91%
-#97,The Willoughbys,2020,91%
-#98,Uncorked,2020,91%
-#99,1922,2017,91%
-#100,The Fighter,2010,90%
+Rank, Name, Year, tmeta, link 
+#1,His House,2020,100%,https://www.rottentomatoes.com/m/his_house/
+#2,Crip Camp: A Disability Revolution,2020,100%,https://www.rottentomatoes.com/m/crip_camp_a_disability_revolution/
+#3,Dick Johnson Is Dead,2020,100%,https://www.rottentomatoes.com/m/dick_johnson_is_dead/
+#4,The Square (Al Midan),2013,100%,https://www.rottentomatoes.com/m/the_square_2013/
+#5,Shirkers,2018,100%,https://www.rottentomatoes.com/m/shirkers/
+#6,Cool Hand Luke,1967,100%,https://www.rottentomatoes.com/m/cool_hand_luke/
+#7,Strong Island,2017,100%,https://www.rottentomatoes.com/m/strong_island/
+#8,Lady Bird,2017,99%,https://www.rottentomatoes.com/m/lady_bird/
+#9,Knock Down the House,2019,99%,https://www.rottentomatoes.com/m/knock_down_the_house/
+#10,Under The Shadow,2016,99%,https://www.rottentomatoes.com/m/under_the_shadow/
+#11,Moonlight,2016,98%,https://www.rottentomatoes.com/m/moonlight_2016/
+#12,The Forty-Year-Old Version,2020,98%,https://www.rottentomatoes.com/m/the_forty_year_old_version/
+#13,Whose Streets?,2017,98%,https://www.rottentomatoes.com/m/whose_streets/
+#14,Circus of Books,2020,98%,https://www.rottentomatoes.com/m/circus_of_books/
+#15,Homecoming: A Film by Beyoncé,2019,98%,https://www.rottentomatoes.com/m/homecoming_a_film_by_beyonce/
+#16,Rocks,2020,98%,https://www.rottentomatoes.com/m/rocks/
+#17,Spotlight,2015,97%,https://www.rottentomatoes.com/m/spotlight_2015/
+#18,Dolemite Is My Name,2019,97%,https://www.rottentomatoes.com/m/dolemite_is_my_name/
+#19,Hunt for the Wilderpeople,2016,97%,https://www.rottentomatoes.com/m/hunt_for_the_wilderpeople/
+#20,Mudbound,2017,97%,https://www.rottentomatoes.com/m/mudbound/
+#21,Aquarius,2016,97%,https://www.rottentomatoes.com/m/aquarius/
+#22,13th,2016,97%,https://www.rottentomatoes.com/m/13th/
+#23,Monty Python and the Holy Grail,1975,97%,https://www.rottentomatoes.com/m/monty_python_and_the_holy_grail/
+#24,Pick of the Litter,2018,97%,https://www.rottentomatoes.com/m/pick_of_the_litter/
+#25,The Social Network,2010,96%,https://www.rottentomatoes.com/m/the-social-network/
+#26,The Florida Project,2017,96%,https://www.rottentomatoes.com/m/the_florida_project/
+#27,Catch Me If You Can,2002,96%,https://www.rottentomatoes.com/m/catch_me_if_you_can/
+#28,Atlantics,2019,96%,https://www.rottentomatoes.com/m/atlantics/
+#29,Blue Ruin,2014,96%,https://www.rottentomatoes.com/m/blue_ruin/
+#30,Menashe,2017,96%,https://www.rottentomatoes.com/m/menashe/
+#31,Undefeated,2012,96%,https://www.rottentomatoes.com/m/undefeated_2012/
+#32,GoodFellas,1990,96%,https://www.rottentomatoes.com/m/1032176-goodfellas/
+#33,Taxi Driver,1976,96%,https://www.rottentomatoes.com/m/taxi_driver/
+#34,American Factory,2019,96%,https://www.rottentomatoes.com/m/american_factory/
+#35,I Lost My Body,2019,96%,https://www.rottentomatoes.com/m/i_lost_my_body/
+#36,To All the Boys I've Loved Before,2018,96%,https://www.rottentomatoes.com/m/to_all_the_boys_ive_loved_before/
+#37,I Am Divine,2013,96%,https://www.rottentomatoes.com/m/i_am_divine/
+#38,The Irishman,2019,95%,https://www.rottentomatoes.com/m/the_irishman/
+#39,Roma,2018,95%,https://www.rottentomatoes.com/m/roma_2018/
+#40,The Artist,2011,95%,https://www.rottentomatoes.com/m/the_artist/
+#41,Nightcrawler,2014,95%,https://www.rottentomatoes.com/m/nightcrawler/
+#42,Casino Royale,2006,95%,https://www.rottentomatoes.com/m/casino_royale/
+#43,The Death of Stalin,2018,95%,https://www.rottentomatoes.com/m/the_death_of_stalin/
+#44,Pan's Labyrinth,2006,95%,https://www.rottentomatoes.com/m/pans_labyrinth/
+#45,The Muppets,2011,95%,https://www.rottentomatoes.com/m/the_muppets/
+#46,Burning (Beoning),2018,95%,https://www.rottentomatoes.com/m/burning_2018/
+#47,The Breadwinner,2017,95%,https://www.rottentomatoes.com/m/the_breadwinner/
+#48,Good Hair,2009,95%,https://www.rottentomatoes.com/m/good_hair/
+#49,Monty Python's Life of Brian,1979,95%,https://www.rottentomatoes.com/m/monty_pythons_life_of_brian/
+#50,The Evil Dead,1981,95%,https://www.rottentomatoes.com/m/the-evil-dead/
+#51,Outside In,2018,95%,https://www.rottentomatoes.com/m/outside_in_2018/
+#52,Marriage Story,2019,94%,https://www.rottentomatoes.com/m/marriage_story_2019/
+#53,Carol,2015,94%,https://www.rottentomatoes.com/m/carol/
+#54,Snowpiercer,2014,94%,https://www.rottentomatoes.com/m/snowpiercer/
+#55,Fruitvale Station,2013,94%,https://www.rottentomatoes.com/m/fruitvale_station/
+#56,Yes, God, Yes,2020,93%,https://www.rottentomatoes.com/m/yes_god_yes/
+#57,Private Life,2018,94%,https://www.rottentomatoes.com/m/private_life_2018/
+#58,Shadow,2019,94%,https://www.rottentomatoes.com/m/shadow_2018/
+#59,Klaus,2019,94%,https://www.rottentomatoes.com/m/klaus/
+#60,Howards End,1992,94%,https://www.rottentomatoes.com/m/howards_end/
+#61,Enter the Dragon,1973,94%,https://www.rottentomatoes.com/m/enter_the_dragon/
+#62,Hugo,2011,93%,https://www.rottentomatoes.com/m/hugo/
+#63,Wildlife,2018,93%,https://www.rottentomatoes.com/m/wildlife_2018/
+#64,CAM,2018,93%,https://www.rottentomatoes.com/m/cam/
+#65,The Little Prince,2016,93%,https://www.rottentomatoes.com/m/the_little_prince_2016/
+#66,Sand Storm (Sufat Chol),2016,93%,https://www.rottentomatoes.com/m/sand_storm/
+#67,Hush,2016,93%,https://www.rottentomatoes.com/m/hush_2016/
+#68,Uncut Gems,2019,92%,https://www.rottentomatoes.com/m/uncut_gems/
+#69,Da 5 Bloods,2020,92%,https://www.rottentomatoes.com/m/da_5_bloods/
+#70,Silver Linings Playbook,2012,92%,https://www.rottentomatoes.com/m/silver_linings_playbook/
+#71,Good Time,2017,92%,https://www.rottentomatoes.com/m/good_time/
+#72,There Will Be Blood,2007,92%,https://www.rottentomatoes.com/m/there_will_be_blood/
+#73,The Meyerowitz Stories (New and Selected),2017,92%,https://www.rottentomatoes.com/m/the_meyerowitz_stories/
+#74,The Squid and the Whale,2005,92%,https://www.rottentomatoes.com/m/squid_and_the_whale/
+#75,Beasts of No Nation,2015,92%,https://www.rottentomatoes.com/m/beasts_of_no_nation/
+#76,The Endless,2018,92%,https://www.rottentomatoes.com/m/the_endless/
+#77,We the Animals,2018,92%,https://www.rottentomatoes.com/m/we_the_animals/
+#78,Fyre,2019,92%,https://www.rottentomatoes.com/m/fyre_2019/
+#79,Rolling Thunder Revue: A Bob Dylan Story By Martin Scorsese,2019,92%,https://www.rottentomatoes.com/m/rolling_thunder_revue_a_bob_dylan_story_by_martin_scorsese/
+#80,Set It Up,2018,92%,https://www.rottentomatoes.com/m/set_it_up/
+#81,Into the Inferno,2016,92%,https://www.rottentomatoes.com/m/into_the_inferno/
+#82,Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton,2017,92%,https://www.rottentomatoes.com/m/jim_and_andy_the_great_beyond_featuring_a_very_special_contractually_obligated_mention_of_tony_clifton/
+#83,Icarus,2017,92%,https://www.rottentomatoes.com/m/icarus_2017/
+#84,Mindhorn,2016,92%,https://www.rottentomatoes.com/m/mindhorn/
+#85,The Disaster Artist,2017,91%,https://www.rottentomatoes.com/m/the_disaster_artist/
+#86,The Departed,2006,91%,https://www.rottentomatoes.com/m/departed/
+#87,A Ghost Story,2017,91%,https://www.rottentomatoes.com/m/a_ghost_story/
+#88,The Gift,2015,91%,https://www.rottentomatoes.com/m/the_gift_2015/
+#89,The White Tiger,2020,91%,https://www.rottentomatoes.com/m/the_white_tiger_2020/
+#90,The Sapphires,2013,91%,https://www.rottentomatoes.com/m/the_sapphires_2012/
+#91,High Flying Bird,2019,91%,https://www.rottentomatoes.com/m/high_flying_bird/
+#92,El Camino: A Breaking Bad Movie,2019,91%,https://www.rottentomatoes.com/m/el_camino_a_breaking_bad_movie/
+#93,Miss Americana,2020,91%,https://www.rottentomatoes.com/m/miss_americana/
+#94,Happy as Lazzaro (Lazzaro felice),2018,91%,https://www.rottentomatoes.com/m/happy_as_lazzaro/
+#95,Gerald's Game,2017,91%,https://www.rottentomatoes.com/m/geralds_game/
+#96,I Am Mother,2019,91%,https://www.rottentomatoes.com/m/i_am_mother/
+#97,The Willoughbys,2020,91%,https://www.rottentomatoes.com/m/the_willoughbys/
+#98,Uncorked,2020,91%,https://www.rottentomatoes.com/m/uncorked_2020/
+#99,1922,2017,91%,https://www.rottentomatoes.com/m/1922_2017/
+#100,The Fighter,2010,90%,https://www.rottentomatoes.com/m/the_fighter_2011/
